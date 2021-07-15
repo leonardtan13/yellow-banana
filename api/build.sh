@@ -1,0 +1,1 @@
+docker build -t leonard-tech-test .
