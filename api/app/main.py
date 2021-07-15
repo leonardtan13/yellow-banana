@@ -1,8 +1,10 @@
-import xgboost as xgb
-from app.process import process_request
-from fastapi import FastAPI
 import os
+
+import xgboost as xgb
+from fastapi import FastAPI
+
 from app.model import TelcoData
+from app.process import process_request
 
 model_config_folder = os.path.abspath(os.path.dirname(__file__))
 model_config_path = os.path.join(model_config_folder, 'model.json')
