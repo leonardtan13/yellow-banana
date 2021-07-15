@@ -1,8 +1,6 @@
 # Finantier data science tech test
 
 ### Project structure
-There are 2 main folders
-
 `/api/app` contains the Dockerfile and the FastAPI application code.
 
 `/api/test` contains test cases 
