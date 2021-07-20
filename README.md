@@ -22,9 +22,9 @@ Name              Stmts   Miss  Cover
 app/__init__.py       0      0   100%
 app/main.py          17      0   100%
 app/model.py         54      0   100%
-app/process.py       30      1    97%
+app/process.py       26      0   100%
 -------------------------------------
-TOTAL               101      1    99%
+TOTAL                97      0   100%
 ```
 
 ### Running the application
